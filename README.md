@@ -187,6 +187,7 @@ This template can be extended with:
 ---
 
 ## 📌 Author
+Emad Adel
 
 Built for real-world cloud and DevOps projects.  
 Feel free to fork, use, and adapt for your organization.
