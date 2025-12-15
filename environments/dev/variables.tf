@@ -1,0 +1,1 @@
+variable "dev_name" { type = string }

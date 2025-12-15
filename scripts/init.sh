@@ -1,0 +1,1 @@
+cd environments/$1 && terraform init

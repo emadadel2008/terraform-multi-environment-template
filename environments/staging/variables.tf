@@ -1,0 +1,1 @@
+variable "staging_name" { type = string }
